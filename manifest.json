@@ -13,7 +13,7 @@
         "type": "image/png"
       }
     ],
-    "start_url": "http://127.0.0.1:5500/",
+    "start_url": "https://kingapestka.github.io/",
     "background_color": "#ffffff",
     "theme_color": "#2196f3",
     "display": "standalone"
